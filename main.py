@@ -118,7 +118,7 @@ ax.text(124, 80, f"{side_dict[side]}", size=12, fontweight="demibold", rotation=
 ax.text(122, 80, f"{side_dict['home']} vs {side_dict['away']}", size=8, fontweight="demibold", rotation = 270, va="top")
 
 fig.tight_layout()
-fig.savefig("C://BlogSite/sharmaabhishekk.github.io/images/final.png", dpi=300)
+##fig.savefig("final.png", dpi=300)
 plt.show()
 
         
